@@ -1,17 +1,17 @@
 # Angular-Web-API-EF-Core-SQL-Server
 
 <p align="center">Create the Angular 14 Application</p>
-Add the Product Model to the Client 
-Generate an Angular Service 
-Implement a Table to Show the Hero List 
-Create the .NET 6 Web API Project 
-Add the Product Model to the API 
-Add the Product Controller 
-Call the Web API from the Angular 14 Client 
-Enable CORS (Cross-Origin Resource Sharing) 
-Add Entity Framework Core 
-Add the Connection String for the SQL Server Database 
-Install the EF Core Tools
+<p align="center">Add the Product Model to the Client</p>
+<p align="center">Generate an Angular Service</p> 
+<p align="center">Implement a Table to Show the Hero List</p> 
+<p align="center">Create the .NET 6 Web API Project</p> 
+<p align="center">Add the Product Model to the API</p> 
+<p align="center">Add the Product Controller</p> 
+<p align="center">Call the Web API from the Angular 14 Client</p> 
+<p align="center">Enable CORS (Cross-Origin Resource Sharing)</p> 
+<p align="center">Add Entity Framework Core</p> 
+<p align="center">Add the Connection String for the SQL Server Database</p> 
+<p align="center">Install the EF Core Tools</p>
 
 
 ![Sin título](https://user-images.githubusercontent.com/116003329/232157563-5bba7209-2352-44c9-9237-af61b63381de.jpg)
