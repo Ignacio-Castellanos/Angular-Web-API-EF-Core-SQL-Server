@@ -3,11 +3,11 @@
 <p align="center">Create the Angular Application</p>
 <p align="center">Add the Product Model to the Client</p>
 <p align="center">Generate an Angular Service</p> 
-<p align="center">Implement a Table to Show the Hero List</p> 
-<p align="center">Create the .NET 6 Web API Project</p> 
+<p align="center">Implement a Table to Show the product List</p> 
+<p align="center">Create the .NET Web API Project</p> 
 <p align="center">Add the Product Model to the API</p> 
 <p align="center">Add the Product Controller</p> 
-<p align="center">Call the Web API from the Angular 14 Client</p> 
+<p align="center">Call the Web API from the Angular Client</p> 
 <p align="center">Enable CORS (Cross-Origin Resource Sharing)</p> 
 <p align="center">Add Entity Framework Core</p> 
 <p align="center">Add the Connection String for the SQL Server Database</p> 
