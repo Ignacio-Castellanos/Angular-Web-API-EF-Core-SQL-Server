@@ -1,6 +1,6 @@
 # Angular-Web-API-EF-Core-SQL-Server
 
-<p align="center">Create the Angular 14 Application</p>
+<p align="center">Create the Angular Application</p>
 <p align="center">Add the Product Model to the Client</p>
 <p align="center">Generate an Angular Service</p> 
 <p align="center">Implement a Table to Show the Hero List</p> 
